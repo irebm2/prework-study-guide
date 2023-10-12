@@ -1,4 +1,4 @@
-var topic = "HTMLf";
+var topic = "HTML";
 
 if (topic === 'HTML') {
   console.log("Let's study HTML!");
